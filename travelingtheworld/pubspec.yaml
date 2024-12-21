@@ -1,0 +1,37 @@
+name: travelingtheworld
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  carousel_slider: ^5.0.0
+  geolocator: ^13.0.2
+  intl: ^0.18.1
+  url_launcher: ^6.1.7
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/maldivas.jpeg
+    - assets/noronha.jpeg
+    - assets/lake.jpeg
+    - assets/eiffel.jpeg
+    - assets/great_wall.jpeg
+    - assets/cancun.jpeg
+    - assets/paris.jpeg
+    - assets/orlando.jpeg
+    - assets/dubai.jpeg
