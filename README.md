@@ -68,6 +68,7 @@ Aprender os fundamentos do Flutter, incluindo:
 
 #### ✨ Resultados
 Interface exibindo texto e botões, com estrutura simples para futuras melhorias.
+
 ![TRABALLHONIVEL20002222](https://github.com/user-attachments/assets/4629c4e0-d226-44b7-871c-c9c1fcbc40c2)
 
 
